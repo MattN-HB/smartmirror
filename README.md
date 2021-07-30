@@ -7,6 +7,7 @@
 
 ## Configure so accessible from your network
 * ```config.js``` 
+* ```"localhost"``` to ```"0.0.0.0"``` this exposes your local network 
 * change the ```ipwhitelist``` to ```["127.0.0.1", "<YOURPRIVATERANGE>"]"
 ## Configure weather
 * ```config.js```
