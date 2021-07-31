@@ -10,8 +10,10 @@
 * ```"localhost"``` to ```"0.0.0.0"``` this exposes your local network 
 * change the ```ipwhitelist``` to ```["127.0.0.1", "<YOURPRIVATERANGE>"]"
 ## Configure weather
+* Create a free account and grab your api key at [Openweathermap](https://home.openweathermap.org/api_keys)
 * ```config.js```
 * Look your city ```id``` from [weathmap](http://bulk.openweathermap.org/sample/city.list.json.gz)
+* Replace ```<apikey>``` with your key in ```config.js``` 
 
 ## Resources
  1. [Magic Mirrors](https://magicmirror.builders/)
