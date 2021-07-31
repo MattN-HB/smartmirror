@@ -1,5 +1,5 @@
 # smartmirror
-![image](https://user-images.githubusercontent.com/44328319/127725906-ec1f6296-204b-40b3-a93c-b94f689e93ef.png)
+![image](https://user-images.githubusercontent.com/44328319/127729417-6ffcc077-c87e-4821-816a-b47cc45faac2.png)
 
 ## Intial Setup
 0. Get Raspberry pi
@@ -14,6 +14,7 @@
 ## Add World Clock
 * [Cool world clock with flags module](https://github.com/ulrichwisser/worldclock)
 ## Configure weather
+![image](https://user-images.githubusercontent.com/44328319/127729431-0bfa79a6-5bb0-417b-845e-9e5e0bde9915.png)
 * Create a free account and grab your api key at [Openweathermap](https://home.openweathermap.org/api_keys)
 * ```config.js```
 * Look your city ```id``` from [weathmap](http://bulk.openweathermap.org/sample/city.list.json.gz)
@@ -24,9 +25,13 @@ Full list of [Weather Fields](https://docs.magicmirror.builders/modules/currentw
 * [Custom Calendar](https://docs.magicmirror.builders/modules/calendar.html)
 
 ## Sport Team Widget
+![image](https://user-images.githubusercontent.com/44328319/127729459-108fa8f1-1e1c-46e4-9daf-72f149569a59.png)
+
 * [Jeff Clarke great custom  sport widget](https://github.com/jclarke0000/MMM-MyScoreboard)
 
 ## Commute Time Widget
+![image](https://user-images.githubusercontent.com/44328319/127729470-705f1f1d-4f34-4626-9fe9-7dec4b9c0cc2.png)
+
 * [Directions from Jeff Github](https://github.com/jclarke0000/MMM-MyCommute)
 
 ## Resources
