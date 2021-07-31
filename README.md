@@ -12,9 +12,7 @@
 * ```"localhost"``` to ```"0.0.0.0"``` this exposes your local network 
 * change the ```ipwhitelist``` to ```["127.0.0.1", "<YOURPRIVATERANGE>"]"```
 ## Add World Clock
-* ``` { module: "clock", position: "top_center", timezones: "Asia/Tokyo"},```
-* [All timezone list](https://github.com/moment/moment-timezone/blob/develop/data/packed/latest.json)
-
+* [Cool world clock with flags module](https://github.com/ulrichwisser/worldclock)
 ## Configure weather
 * Create a free account and grab your api key at [Openweathermap](https://home.openweathermap.org/api_keys)
 * ```config.js```
