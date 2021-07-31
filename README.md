@@ -32,8 +32,9 @@ Full list of [Weather Fields](https://docs.magicmirror.builders/modules/currentw
 
 ## Commute Time Widget
 ![image](https://user-images.githubusercontent.com/44328319/127729470-705f1f1d-4f34-4626-9fe9-7dec4b9c0cc2.png)
-
 * [Directions from Jeff Github](https://github.com/jclarke0000/MMM-MyCommute)
+* Tips for the Google API: create billing account, link billing account to project, ENABLE and restrict following APIs:
+![image](https://user-images.githubusercontent.com/44328319/127744719-dd83cd81-bf9b-4d53-8a06-de512cc74bf9.png)
 
 ## Resources
  1. [Magic Mirrors](https://magicmirror.builders/)
