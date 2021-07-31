@@ -1,4 +1,6 @@
 # smartmirror
+![image](https://user-images.githubusercontent.com/44328319/127725906-ec1f6296-204b-40b3-a93c-b94f689e93ef.png)
+
 ## Intial Setup
 0. Get Raspberry pi
 1. Follow installation instructions on [Install for Magic Mirror](https://docs.magicmirror.builders/getting-started/installation.html#manual-installation)
