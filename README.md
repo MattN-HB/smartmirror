@@ -12,6 +12,7 @@
 * ```"localhost"``` to ```"0.0.0.0"``` this exposes your local network 
 * change the ```ipwhitelist``` to ```["127.0.0.1", "<YOURPRIVATERANGE>"]"```
 ## Add World Clock
+![image](https://user-images.githubusercontent.com/44328319/127729498-5b82c433-6245-4cdc-9e3b-d66055125830.png)
 * [Cool world clock with flags module](https://github.com/ulrichwisser/worldclock)
 ## Configure weather
 ![image](https://user-images.githubusercontent.com/44328319/127729431-0bfa79a6-5bb0-417b-845e-9e5e0bde9915.png)
