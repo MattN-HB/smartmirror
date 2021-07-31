@@ -1,5 +1,5 @@
 # smartmirror
-![image](https://user-images.githubusercontent.com/44328319/127729417-6ffcc077-c87e-4821-816a-b47cc45faac2.png)
+![image](https://user-images.githubusercontent.com/44328319/127748662-7a729feb-3b98-46c2-8fbd-2382da42af04.png)
 
 ## Intial Setup
 0. Get Raspberry pi
@@ -37,6 +37,8 @@ Full list of [Weather Fields](https://docs.magicmirror.builders/modules/currentw
 * Tips for the Google API: create billing account, link billing account to project, ENABLE and restrict following APIs:
 ![image](https://user-images.githubusercontent.com/44328319/127744719-dd83cd81-bf9b-4d53-8a06-de512cc74bf9.png)
 
+## Custom Background
+* navigate to ```cd MagicMirror/css/main.css``` and add to the body ```background-image: url("name.jpeg");```
 ## Resources
  1. [Magic Mirrors](https://magicmirror.builders/)
  2. [Install for Magic Mirror](https://docs.magicmirror.builders/getting-started/installation.html#manual-installation)
