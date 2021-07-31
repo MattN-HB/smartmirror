@@ -26,6 +26,9 @@ Full list of [Weather Fields](https://docs.magicmirror.builders/modules/currentw
 ## Sport Team Widget
 * [Jeff Clarke great custom  sport widget](https://github.com/jclarke0000/MMM-MyScoreboard)
 
+## Commute Time Widget
+* [Directions from Jeff Github](https://github.com/jclarke0000/MMM-MyCommute)
+
 ## Resources
  1. [Magic Mirrors](https://magicmirror.builders/)
  2. [Install for Magic Mirror](https://docs.magicmirror.builders/getting-started/installation.html#manual-installation)
