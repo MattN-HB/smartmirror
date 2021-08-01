@@ -8,11 +8,11 @@
 3. ```npm run start```
 
 ## Configure so accessible from your network
-* ```config.js``` 
-* ```"localhost"``` to ```"0.0.0.0"``` this exposes your local network 
-* change the ```ipwhitelist``` to ```["127.0.0.1", "<YOURPRIVATERANGE>"]```
+* Locate file ```nano config.js``` 
+* Change ```"localhost"``` to ```"0.0.0.0"``` this exposes your local network 
+* Change the ```ipwhitelist``` to ```["127.0.0.1", "<YOURPRIVATERANGE>"]```
 * Open up firewall for that port to your local network ```sudo ufw allow from <YOURIPRANGE> to any port 8080 proto tcp```
-* Test it by going to web browser and ```<rasberrypiipaddress:8080>```
+* Test it by going to web browser from different device and http://<yourrasberrypiipaddress>:8080
 ## Add World Clock
 ![image](https://user-images.githubusercontent.com/44328319/127729498-5b82c433-6245-4cdc-9e3b-d66055125830.png)
 * [Cool world clock with flags module](https://github.com/ulrichwisser/worldclock)
