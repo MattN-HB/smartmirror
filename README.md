@@ -5,7 +5,7 @@
 0. Get Raspberry pi
 1. Follow installation instructions on [Install for Magic Mirror](https://docs.magicmirror.builders/getting-started/installation.html#manual-installation)
 2. ```cd MagicMirror/```
-3. ```npm run start```
+3. To Start the mirror ```npm run start```
 
 ## Configure so accessible from your network
 * Locate file ```nano config.js``` 
