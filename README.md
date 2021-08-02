@@ -41,6 +41,11 @@ Full list of [Weather Fields](https://docs.magicmirror.builders/modules/currentw
 
 ## Custom Background
 * navigate to ```cd MagicMirror/css/main.css``` and add to the body ```background-image: url("name.jpeg");```
+
+## Steps putting on mirror
+ 1. [Install for Magic Mirror](https://docs.magicmirror.builders/getting-started/installation.html#manual-installation)
+ 2. <YourraspIP>:8080 in Chromium Browser on raspberrypi and cast to Chromecast. This allows you to have multiple mirrors or displays
+
 ## Resources
  1. [Magic Mirrors](https://magicmirror.builders/)
  2. [Install for Magic Mirror](https://docs.magicmirror.builders/getting-started/installation.html#manual-installation)
