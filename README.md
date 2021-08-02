@@ -11,7 +11,7 @@
 * Locate file ```nano config.js``` 
 * Change ```"localhost"``` to ```"0.0.0.0"``` this exposes your local network 
 * Change the ```ipwhitelist``` to ```["127.0.0.1", "<YOURPRIVATERANGE>"]```
-* Open up firewall for that port to your local network ```sudo ufw allow from <YOURIPRANGE> to any port 8080 proto tcp```
+* Open up firewall on rasppi for that port to your local network ```sudo ufw allow from <YOURIPRANGE> to any port 8080 proto tcp```
 * Test it by going to web browser from different device and http://<yourrasberrypiipaddress>:8080
 ## Add World Clock
 ![image](https://user-images.githubusercontent.com/44328319/127729498-5b82c433-6245-4cdc-9e3b-d66055125830.png)
@@ -56,5 +56,6 @@ Full list of [Weather Fields](https://docs.magicmirror.builders/modules/currentw
  7. [Module Positions](https://docs.magicmirror.builders/modules/configuration.html#example)
  ![image](https://user-images.githubusercontent.com/44328319/127725218-55448298-ae01-4cb5-bbdc-842aa2369286.png)
  8. [Cast alternative: raspicast](https://www.hackster.io/sbcomponentsuk/diy-chromecast-alternative-using-raspberry-pi-c71c57)
+ 9. TRICK: F11 toggles the full screen on the pi
 
 
