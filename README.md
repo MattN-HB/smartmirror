@@ -50,4 +50,6 @@ Full list of [Weather Fields](https://docs.magicmirror.builders/modules/currentw
  6. [Custom Weather](https://github.com/jclarke0000/MMM-MyWeatherf)
  7. [Module Positions](https://docs.magicmirror.builders/modules/configuration.html#example)
  ![image](https://user-images.githubusercontent.com/44328319/127725218-55448298-ae01-4cb5-bbdc-842aa2369286.png)
+ 8. [Cast alternative: raspicast](https://www.hackster.io/sbcomponentsuk/diy-chromecast-alternative-using-raspberry-pi-c71c57)
+
 
