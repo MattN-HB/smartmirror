@@ -64,7 +64,7 @@ Full list of [Weather Fields](https://docs.magicmirror.builders/modules/currentw
    * Replace ```Authentication=SystemAuth``` with ```Authentication=VncAuth``` and save the file.
    * In the command line, run ```sudo vncpasswd -service```. This will prompt you to set a password, and will insert it for you in the right config file for VNC Server running in Service Mode.
    * Restart VNC Server.
-   * ONLY first 8 characters of password work in REMMINA the ip is <yourpiip>:5900
+   * ONLY first 8 characters of password work in REMMINA the ip field is: ```<yourpiip>:5900```
 
 
 
