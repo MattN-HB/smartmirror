@@ -57,5 +57,13 @@ Full list of [Weather Fields](https://docs.magicmirror.builders/modules/currentw
  ![image](https://user-images.githubusercontent.com/44328319/127725218-55448298-ae01-4cb5-bbdc-842aa2369286.png)
  8. [Cast alternative: raspicast](https://www.hackster.io/sbcomponentsuk/diy-chromecast-alternative-using-raspberry-pi-c71c57)
  9. TRICK: F11 toggles the full screen on the pi
+ 10. Setup SSH to your by raspiconfig enable via interface. ```sudo ufw allow from <YOURLOCALIPRANGE>/24 to any port 22 proto tcp``` to open up firewall to your local network
+ 11. How to VNC from remmina into your pi: ```sudo ufw allow from 192.168.1.201/24 to any port 5900 proto tcp``` and ```sudo raspi-config``` interfaces and enable VNC server. 
+   * Open the ```/root/.vnc/config.d/vncserver-x11``` config file.
+   * Replace ```Authentication=SystemAuth``` with ```Authentication=VncAuth``` and save the file.
+   * In the command line, run ```sudo vncpasswd -service```. This will prompt you to set a password, and will insert it for you in the right config file for VNC Server running in Service Mode.
+   * Restart VNC Server.
+   * ONLY first 8 characters of password work in REMMINA the ip is <yourpiip>:5900
+
 
 
