@@ -26,7 +26,7 @@ Full list of [Weather Fields](https://docs.magicmirror.builders/modules/currentw
 
 ## Calendar Config
 * [Custom Calendar](https://docs.magicmirror.builders/modules/calendar.html)
-* [Gcal to ical](https://hada-tech.com/index.php/2020/09/03/google-calendar-events-display-using-magicmirror-in-raspberry-pi/)
+* [Gcal to ical to mirror](https://hada-tech.com/index.php/2020/09/03/google-calendar-events-display-using-magicmirror-in-raspberry-pi/)
 
 ## Sport Team Widget
 ![image](https://user-images.githubusercontent.com/44328319/127729459-108fa8f1-1e1c-46e4-9daf-72f149569a59.png)
