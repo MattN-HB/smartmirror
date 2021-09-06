@@ -39,6 +39,10 @@ Full list of [Weather Fields](https://docs.magicmirror.builders/modules/currentw
 * Tips for the Google API: create billing account, link billing account to project, ENABLE and restrict following APIs:
 ![image](https://user-images.githubusercontent.com/44328319/127744719-dd83cd81-bf9b-4d53-8a06-de512cc74bf9.png)
 
+## Wifi QR Code
+* [Directions for QR code from TeraTech](https://github.com/TeraTech/MMM-WiFiPassword)
+ ![image](https://user-images.githubusercontent.com/44328319/132155849-ccd23526-3a6b-4d19-8f00-ce048c18aa03.png)
+
 ## Custom Background
 * navigate to ```cd MagicMirror/css/main.css``` and add to the body ```background-image: url("name.jpeg");```
 
